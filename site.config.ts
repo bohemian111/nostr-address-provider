@@ -1,12 +1,12 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "bohemian.build",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Free nostr addresses.",
+  slogan: "Free nostr addresses!",
 
   // your donation LNURL
   donationLNUrl:
